@@ -1,5 +1,7 @@
 # Big-Brain-Ape
 fully autonomous training bot. Trade perpetual on hyper liquid.
+
+> **Separate product:** Telegram memecoin sniper Phase 1 draft is in [`memecoin-sniper/`](./memecoin-sniper/) and should move to its own GitHub repo.
 Gives Buy Sell and Hold recommendations for every stock and crypto in your portfolio.
 Provides the nearest support and resistance levels and gives the prices down to the penny
 Gives the most recent analyst ratings and price predictions
